@@ -1,2 +1,14 @@
-# Word-Cloud-Python
-Word Cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. Significant textual data points can be highlighted using a word cloud. Word clouds are widely used for analyzing data from social network websites.
+# Word Cloud With Python
+In This Repo We Will Try To Summarize Some Basic Concepts of Python Like: Dictionaries, Control Statements, Looping and more, In a Fun and Interactive Way by Creating A Word Cloud From Scratch Using Various Python Modules and Some Hard Coded Python.
+
+## What Is A Word Cloud?
+A Word Cloud is also know as Tag Cloud, It is Used for Visual Representation of Text data, Typically Used to Depict Keyword Metadata on Websites, or To Visualize Free Form Text. Tags are Usually Single Words, and The Importance of Each Tag is Shown With Font Size or Color. In This Repo We Will Be Creating A Word Cloud Based on The Frequency of Apperance of Text.
+
+## Libraries Required
+* Numpy
+* WordCloud
+* Matplotlib
+* ipywidget
+* fileupload
+* sys
+* io
