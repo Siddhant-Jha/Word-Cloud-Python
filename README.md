@@ -12,3 +12,5 @@ A Word Cloud is also know as Tag Cloud, It is Used for Visual Representation of 
 * fileupload
 * sys
 * io
+## Final Result
+<img src="https://github.com/Siddhant-Jha/Word-Cloud-Python/blob/master/download.png">
